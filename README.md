@@ -3,6 +3,8 @@ Ionize CMS Flat Theme
 
 A modern theme for ionize CMS with flat (font awesome) icons 
 
+Note: This is rather a quick prove of concept, to test how something like this would look like. The icons are still implemented via icon-sprite and not via truetype glyphs.
+
 Installation
 ------------
 
